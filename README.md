@@ -1,4 +1,4 @@
-[![Bolt: AI-Powered Full-Stack Web Development in the Browser](./public/social_preview_index.jpg)](https://discord.gg/t9b6Npje)
+[![Bolt: AI-Powered Full-Stack Web Development in the Browser](./public/social_preview_index.jpg)](https://github.com/Bolt-CE/bolt)
 
 # Bolt Community Edition
 
