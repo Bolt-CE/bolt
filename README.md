@@ -20,7 +20,7 @@ Join the discussion and stay updated:
 - **Git**
 - **Docker / Docker Compose** (optional)
 - **Node.js / npm** (optional)
-- **LLM API Key** (for `.env.local`)
+- **Anthropic API Key** (for `.env.local`)
 
 ### Installation Steps
 
@@ -31,7 +31,7 @@ Join the discussion and stay updated:
    ```
 
 2. **Setup Environment File**  
-   Rename `env.example` to `.env.local` and add your LLM API key.
+   Rename `env.example` to `.env.local` and add your Anthropic API key.
 
 3. **Run Bolt**  
    Choose one of the following methods to run Bolt:
