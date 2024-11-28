@@ -4,7 +4,7 @@
 
 ## Overview
 
-**Bolt Community Edition** is a community-driven fork of the original Bolt repository, developed to provide more frequent updates and stronger community involvement. The original Bolt repository shifted focus towards a commercial edition, leading to the creation of this fork to maintain an open-source, actively developed alternative.
+**Bolt Community Edition** is a community-driven fork of the original Bolt.new repository, developed to provide more frequent updates and stronger community involvement. The original Bolt repository shifted focus towards a commercial edition, leading to the creation of this fork to maintain an open-source, actively developed alternative.
 
 This edition closely follows the commercial version while encouraging open contributions and innovation from the community.
 
@@ -67,7 +67,9 @@ Run the container with Docker Compose profiles:
 
 Bolt is an AI-powered web development agent that allows you to prompt, run, edit, and deploy full-stack applications directly from your browser—no local setup required. If you're here to build your own AI-powered web dev agent using the Bolt open source codebase, [click here to get started!](./CONTRIBUTING.md)
 
-## What Makes Bolt Different
+## Why We Forked Bolt
+
+The answer to why we forked bolt can be answered by listing what the orginial Bolt.new repo offered.
 
 Claude, v0, etc are incredible- but you can't install packages, run backends or edit code. That’s where Bolt stands out:
 
