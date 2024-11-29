@@ -108,3 +108,7 @@ Here are some tips to get the most out of Bolt:
 - **Scaffold the basics first, then add features**: Make sure the basic structure of your application is in place before diving into more advanced functionality. This helps Bolt understand the foundation of your project and ensure everything is wired up right before building out more advanced functionality.
 
 - **Batch simple instructions**: Save time by combining simple instructions into one message. For example, you can ask Bolt to change the color scheme, add mobile responsiveness, and restart the dev server, all in one go saving you time and reducing API credit consumption significantly.
+
+- ## FAQ
+
+- The FAQ section has been moved here: [click here to view the FAQ's!](./FAQ.md)
