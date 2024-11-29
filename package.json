@@ -59,7 +59,7 @@
     "@xterm/addon-fit": "^0.10.0",
     "@xterm/addon-web-links": "^0.11.0",
     "@xterm/xterm": "^5.5.0",
-    "ai": "^3.3.4",
+    "ai": "^3.4.9",
     "classnames": "^2.5.1",
     "date-fns": "^3.6.0",
     "diff": "^5.2.0",
@@ -94,6 +94,7 @@
     "@types/react": "^18.2.20",
     "@types/react-dom": "^18.2.7",
     "fast-glob": "^3.3.2",
+    "husky": "9.1.7",
     "is-ci": "^3.0.1",
     "node-fetch": "^3.3.2",
     "prettier": "^3.3.2",
@@ -110,5 +111,6 @@
   },
   "resolutions": {
     "@typescript-eslint/utils": "^8.0.0-alpha.30"
-  }
+  },
+  "packageManager": "pnpm@9.4.0"
 }
