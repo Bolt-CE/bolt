@@ -17,10 +17,10 @@ Join the discussion and stay updated:
 
 ### Prerequisites
 
-- **Git**
-- **Docker / Docker Compose** (optional)
-- **Node.js / npm** (optional)
-- **Anthropic API Key** (for `.env.local`)
+- **Git** [click here to get view there site!](https://git-scm.com/downloads)
+- **Docker / Docker Compose** (optional)  [click here to get view there site!](https://www.docker.com/)
+- **Node.js / npm** (optional) [click here to get view there site!](https://nodejs.org/en/download/)
+- **Anthropic API Key** (for `.env.local`) [click here to get view there site!](https://console.anthropic.com/settings/keys)
 
 ### Installation Steps
 
