@@ -1,5 +1,5 @@
 services:
-  bolt-ai:
+  app-pro:
     image: bolt-ai:production
     build:
       context: .
@@ -22,7 +22,7 @@ services:
     profiles:
       - production  # This service only runs in the production profile
 
-  bolt-ai-dev:
+  app-dev:
     image: bolt-ai:development
     build:
       target: bolt-ai-development
