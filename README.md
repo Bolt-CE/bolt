@@ -11,7 +11,7 @@ This edition closely follows the commercial version while encouraging open contr
 ## Community
 
 Join the discussion and stay updated:
-- **Discord**: [https://discord.gg/t9b6Npje](https://discord.gg/t9b6Npje)
+- **Discussion**: [Join our forum](https://github.com/Bolt-CE/bolt/discussions)
 
 ## Getting Started
 
